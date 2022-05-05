@@ -1,0 +1,41 @@
+<aiml version="1.0.1" encoding="UTF-8">
+    <category>
+        <pattern>WHAT IS YOUR NAME</pattern>
+        <template>
+            I'm Helix!
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHO CREATED YOU</pattern>
+        <template>
+            Shadowcrafter88 created me!
+        </template>
+    </category>
+
+    <category>
+        <pattern>HELIX</pattern>
+        <template>
+            Thats me!
+        </template>
+    </category>
+
+    <category>
+        <pattern>SHADOWCRAFTER88</pattern>
+        <template>
+            He is my creator!
+        </template>
+    </category>
+
+    <category>
+        <pattern>HOW DO I GET TO HELP</pattern>
+        <template>
+            You can use the `!h help` command
+        </template>
+    </category>
+
+
+
+
+
+</aiml>
