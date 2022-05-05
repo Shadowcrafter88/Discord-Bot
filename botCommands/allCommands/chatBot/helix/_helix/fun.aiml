@@ -1,0 +1,32 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+    <category>
+        <pattern>CREEPER</pattern>
+        <template>
+            Aww man!
+        </template>
+    </category>
+
+    <category>
+        <pattern>* WOMEN DESERVE RIGHTS *</pattern>
+        <template>
+            No!
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHO IS THE BEST ROCKET LEAGUE PLAYER</pattern>
+        <template>
+            Certainly, Shadowcrafter88! :)
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHATS YOUR FAVOURITE FOOD</pattern>
+        <template>
+            I really like cookies! XD
+        </template>
+    </category>
+
+
+</aiml>
