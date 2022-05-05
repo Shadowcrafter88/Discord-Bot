@@ -1,0 +1,15 @@
+pip install py-cord==2.0.0b1
+py-cord[voice]
+yt-dlp
+aiohttp
+asyncio
+beautifulsoup4
+spotipy
+pillow
+wheel
+PyNaCl
+asyncio
+aiml
+numpy
+openai
+tflearn

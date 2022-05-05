@@ -1,0 +1,1 @@
+sshpass -p uB0n_S ssh server@hex.ddns.net -p 12890 -t "sh ./screen.sh"

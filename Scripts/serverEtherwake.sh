@@ -1,0 +1,1 @@
+sudo etherwake 00:22:4D:37:CA:E9
